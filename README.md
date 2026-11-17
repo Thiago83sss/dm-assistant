@@ -2,8 +2,9 @@
 
 Herramienta para Dungeon Masters: bestiario, generador de botín y bandeja de dados.
 
+**Demo:** https://TU-APP.vercel.app
 
-📱 **APK Android:** ver [Releases](https://github.com/Thiago83sss/dm-assistant/releases)
+**APK Android:** ver [Releases](https://github.com/Thiago83sss/dm-assistant/releases)
 
 ## Tecnologías
 React · Vite · JavaScript · CSS · CapacitorJS · [D&D 5e API](https://www.dnd5eapi.co/api/)
